@@ -1,0 +1,1 @@
+@extend('Layout.master')
